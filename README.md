@@ -14,7 +14,7 @@ This Power BI dashboard provides insights into student assessment and exam perfo
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](BEAMS-dashboard-preview.png)
 
 ## 🧰 Tools Used
 
